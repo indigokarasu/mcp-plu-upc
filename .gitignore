@@ -1,0 +1,10 @@
+node_modules/
+.wrangler/
+src/
+wrangler.jsonc
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.DS_Store
+.env
+.dev.vars

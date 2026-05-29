@@ -1,0 +1,10 @@
+{
+  "name": "upc-plu-lookup",
+  "version": "1.0.0",
+  "description": "UPC/PLU product lookup MCP server with Open Food Facts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}

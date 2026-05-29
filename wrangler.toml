@@ -1,0 +1,7 @@
+name = "upc-plu-lookup"
+main = "src/index.ts"
+compatibility_date = "2026-04-01"
+
+[[kv_namespaces]]
+binding = "UPC_CACHE"
+id = "YOUR_KV_NAMESPACE_ID"
