@@ -1,7 +1,7 @@
 # mcp-plu-upc
 
 <p align="center">
-<img src="./assets/readme/hero.svg" width="100%" alt="MCP server for UPC/barcode and PLU produce code lookups via Open Food Facts">
+<img src="./assets/readme/hero.jpg" width="100%" alt="MCP server for UPC/barcode and PLU produce code lookups via Open Food Facts">
 </p>
 
 mcp-plu-upc — MCP server for UPC/barcode and PLU produce code lookups via Open Food Facts
